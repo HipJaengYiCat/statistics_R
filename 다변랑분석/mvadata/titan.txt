@@ -1,0 +1,42 @@
+Class    Age  Sex   Survived  Number
+Crew   Adult  Male       Yes     192
+Crew   Adult  Male        No     670
+Crew   Adult  Female     Yes      20
+Crew   Adult  Female      No       3
+Crew   Child  Male       Yes       0 
+Crew   Child  Male        No       0
+Crew   Child  Female     Yes       0 
+Crew   Child  Female      No       0
+First  Adult  Male       Yes      57
+First  Adult  Male        No     118
+First  Adult  Female     Yes     140 
+First  Adult  Female      No       4
+First  Child  Male       Yes       5 
+First  Child  Male        No       0
+First  Child  Female     Yes       1 
+First  Child  Female      No       0
+Second Adult  Male       Yes      14
+Second Adult  Male        No     154
+Second Adult  Female     Yes      80 
+Second Adult  Female      No      13
+Second Child  Male       Yes      11 
+Second Child  Male        No       0
+Second Child  Female     Yes      13 
+Second Child  Female      No       0
+Third  Adult  Male       Yes      75
+Third  Adult  Male        No     387
+Third  Adult  Female     Yes      76 
+Third  Adult  Female      No      89
+Third  Child  Male       Yes      13 
+Third  Child  Male        No      35
+Third  Child  Female     Yes      14 
+Third  Child  Female      No      17
+
+
+
+ 
+ 
+
+
+
+
