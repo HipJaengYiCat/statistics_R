@@ -1,0 +1,5 @@
+milk,snack,bread
+milk,bread,coke
+cheese,beer
+snack,coke,beer
+bread,cheese,milk
