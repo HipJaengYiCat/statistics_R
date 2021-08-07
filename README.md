@@ -1,2 +1,2 @@
-# R_File
-R스튜디오 연동
+# AI_R
+colab(R) & R studio & datafile commit
