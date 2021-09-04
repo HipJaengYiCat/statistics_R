@@ -10,7 +10,7 @@ colab(R) & R studio & datafile commit
 다변량분석(저자 : 김성수, 김현중, 정성석, 이용구)
 데이터마이닝(저자 : 장영재, 김현중, 조형준)
 
-————————————-
+---------------------------------------------------------------------
 The portfolio is a collection of codes(R) and materials executed while studying the 3rd year course of Statistics Data Science at Korea National Open University.
 
 Analysis methods related to time series, multivariate data analysis, data mining and regression analysis were studied.
