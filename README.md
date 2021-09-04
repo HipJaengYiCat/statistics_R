@@ -1,7 +1,7 @@
 # AI_R
 colab(R) & R studio & datafile commit
 
-해당 포트폴리오는 한국방송통신대학교 통계데이터과학과 3학년 과정을 학습하며 실행한 코드(R)와 자료들을 모아둔 것이다
+해당 포트폴리오는 한국방송통신대학교 통계데이터과학과 과정을 학습하며 실행한 코드(R)와 자료들을 모아둔 것이다
 시계열과, 다변량자료의 분석, 데이터마이닝, 회귀분석에 관한 분석방법들을 학습하였다.
 
 -참고 자료-
@@ -11,7 +11,7 @@ colab(R) & R studio & datafile commit
 데이터마이닝(저자 : 장영재, 김현중, 조형준)
 
 ---------------------------------------------------------------------
-The portfolio is a collection of codes(R) and materials executed while studying the 3rd year course of Statistics Data Science at Korea National Open University.
+The portfolio is a collection of codes(R) and materials executed while studying the course of Statistics Data Science at Korea National Open University.
 
 Analysis methods related to time series, multivariate data analysis, data mining and regression analysis were studied.
 
